@@ -1,0 +1,16 @@
+.userInfoPage {
+	color: darkcyan;
+}
+
+.users {
+	border-bottom: 2px solid #393a3f;
+}
+
+.playlist-link {
+	display: flex;
+	align-items: center;
+}
+
+.playlist-link p {
+	margin-right: 5px;
+}

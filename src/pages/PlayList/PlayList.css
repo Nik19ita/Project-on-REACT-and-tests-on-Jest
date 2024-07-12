@@ -1,0 +1,48 @@
+.playlistPage {
+	color: bisque;
+}
+
+.playlist {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.playlist a {
+	color: cornflowerblue;
+	cursor: pointer;
+}
+
+.playlist p, ul {
+	margin: 0;
+}
+
+.playlist a:hover {
+	color: rgb(72, 111, 184);
+}
+
+.playlist button {
+	text-align: left;
+	color: cornflowerblue;
+}
+
+.playlist button:hover {
+	text-align: left;
+	color: rgb(72, 111, 184);
+}
+
+h2 {
+	margin: 0;
+    margin-bottom: 10px;
+}
+
+.playListInfoPage {
+	color: darkcyan;
+}
+
+.playlist span {
+    font-weight: 700;
+    color: rgb(18, 187, 187);
+}
+
+
